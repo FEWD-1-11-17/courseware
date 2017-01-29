@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:FEWD-1-11-17/FEWD-1-11-17.github.io.git
+	branch = master
